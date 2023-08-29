@@ -1,1 +1,1 @@
-We have a bot, named **Epsilon, ε**. 
+We have a bot, named Epsilon, ε. 
