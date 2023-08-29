@@ -1,4 +1,5 @@
-## (30th July 2023) : 4 लाख 8 ₹
+## (30th July 2023)
+   (4 लाख 8 ₹)
 ______________________
 
 ePay
@@ -6,6 +7,8 @@ ePay
 Pay electronically 
 making payment easier 
 Let's transfer money
+
+______________________
 
 §
   — need
@@ -38,6 +41,8 @@ What exactly in the ePay's v 0.0.1
 
 >> cuckoo
 A cuckoo is a grey bird which makes an easily recognizable sound consisting of two quick notes.
+
+______________________
 
 §
   — need
