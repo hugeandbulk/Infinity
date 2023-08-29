@@ -5,3 +5,4 @@ It can help in —
 - if you deleting the account, it will throw in to (bin) directory. 
 - database management 
 - re registrations 
+- in paymenting through upi 
