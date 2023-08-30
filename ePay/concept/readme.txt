@@ -20,11 +20,17 @@ ______________________
   - created
   - Apply — ready to go.
   ______________________
-  ePay over the phone. 
-  Thanks/ 5th of July, 2023
-    1:28 PM. 
-      Prabhat and Zareen
+  
+ePay over the phone. 
+  
+Thanks/ 5th of July, 2023
+    
+1:28 PM. 
+      
+Prabhat and Zareen
+
 ------------------------
+
 What exactly in the ePay's v 0.0.1
 👀
 ——
@@ -54,11 +60,16 @@ ______________________
   - created
   - Apply — ready to go.
   ______________________
-  ePay over the phone. 
+
+  ePay over the phone.
+
   Thanks/ 14th of July, 2023
-    11:28 AM. 
-      Prabhat and Zareen
+
+    11:28 AM.
+
+   Prabhat and Zareen
 ------------------------
+
 What exactly in the ePay's v 1.0.0
 👀
 ——
@@ -84,4 +95,3 @@ Yeah (§) :
 
 Device : Cell Phone / Mobile Phone
 O/S :📱: Android bary and iOS bary
-
