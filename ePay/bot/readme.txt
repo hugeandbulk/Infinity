@@ -1,4 +1,4 @@
-We have a bot, named "epsilon, ε" . 
+We have a bot, named "epsilon, ε". 
 It can help in —
 - software updates 
 - account management 
