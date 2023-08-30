@@ -1,5 +1,5 @@
  e-marketing, through the same app and different means. 
- * newspaper
+ * newspaper/radio
  * what's app
  * Facebook
  * twitter
