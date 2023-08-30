@@ -1,6 +1,6 @@
-We have a bot, named Omega, ω.
+We have a bot, named "omega, ω".
 
-It can help in —
+It can helps in —
 - software updates 
 - account management 
 - if you deleting the account, it will throw in to (bin) directory. 
