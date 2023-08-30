@@ -1,4 +1,4 @@
- e-marketing, through the same app and different means. 
+marketing and e-marketing, through the same app and different means. 
  * newspaper/radio
  * what's app
  * Facebook
