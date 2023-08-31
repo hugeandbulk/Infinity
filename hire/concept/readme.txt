@@ -1,5 +1,5 @@
-Hire
-————
+Hire (Nino) 
+———————————
   — need
   - download 
   - install 
@@ -26,8 +26,7 @@ What exactly in the hire
  - history 
 👍 by — Prabhat Kumar.
 
->> Parrot
-Parrots, also known as psittacines are birds of the order Psittaciformes and are found mostly in tropical and subtropical regions.
+>> Nino
 
 Copyright : Prabhat Kumar. 2022 — 2023.
 
@@ -35,4 +34,3 @@ Yeah (§) :
 
 Device : Cell Phone / Mobile Phone
 O/S :📱: Android bary and iOS bary
-
