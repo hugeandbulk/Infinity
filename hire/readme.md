@@ -10,4 +10,6 @@ Pay through cash or UPI.
 
 ~Select Yearly Winner~
 
+(formula based winner)
+
 **Twenty**
