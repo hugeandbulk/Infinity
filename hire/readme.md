@@ -6,4 +6,6 @@ Referal (code)
 
 First Ride or ₹ upto 50.
 
+Pay through cash or UPI.
+
 **Twenty**
