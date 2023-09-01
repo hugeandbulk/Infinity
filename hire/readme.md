@@ -8,4 +8,6 @@ First Ride or ₹ upto 50.
 
 Pay through cash or UPI.
 
+~Select Yearly Winner~
+
 **Twenty**
