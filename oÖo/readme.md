@@ -19,4 +19,10 @@ You can send daily report and message to the parents (registered).
 
 --
 
+Child App - 2500/-
+
+Parent App - 500/-
+
+--
+
 **Twenty one**
