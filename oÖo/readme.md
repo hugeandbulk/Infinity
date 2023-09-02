@@ -19,6 +19,8 @@ You can send daily report and message to the parents (registered).
 
 --
 
+Service App - 5500/-
+
 Child App - 2500/-
 
 Parent App - 500/-
