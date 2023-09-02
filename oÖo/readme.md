@@ -15,4 +15,8 @@ You're Regularity
 
 --
 
+You can send daily report and message to the parents (registered).
+
+--
+
 **Twenty one**
